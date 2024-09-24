@@ -1,0 +1,40 @@
+body {
+    width: 1440px;
+    height: 1024px;
+    background-color: #DAA520;
+
+}
+
+.div0 {
+    width: 365px;
+    height: 365px;
+    display: block;
+    border-radius: 12px;
+    background-color:#297E40 ;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.div1 {
+    width: 365px;
+    height: 365px;
+    display: block;
+    border-radius: 90px;
+    background-color: #8E2877;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.div2 {
+    width: 365px;
+    height: 365px;
+    display: block;
+    border-radius: 20px;
+    background-color:#361BA4;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
